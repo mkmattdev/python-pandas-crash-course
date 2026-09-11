@@ -1,0 +1,5 @@
+# Biblioteki potrzebne kursantowi (instalacja: python3 -m pip install -r requirements.txt)
+pandas>=2.2
+openpyxl>=3.1
+matplotlib>=3.8
+ipykernel>=6.29
